@@ -193,7 +193,14 @@
   },
   {
     "_id": 202,
-    "email": "@nwmissouri.edu"
+    "email": "s534888@nwmissouri.edu",
+    "given": "Rajesh",
+    "family": "Tarigopula",
+    "city": "Maryville",
+    "state": "Missouri",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/rajesh4322"
   },
   {
     "_id": 203,
